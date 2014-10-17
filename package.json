@@ -1,0 +1,30 @@
+{
+  "name": "sails-generate-html",
+  "version": "0.10.0",
+  "description": "sails generate html",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "html",
+    "generator",
+    "sails",
+    "generate",
+    "plugin"
+  ],
+  "author": "balderdashy",
+  "license": "MIT",
+  "dependencies": {
+  	"lodash": "~2.4.0"
+  },
+  "devDependencies": {
+    "sails-generate": "*",
+    "reportback": "*",
+    "fs-extra": "*"
+  },
+  "sailsGenerator": {
+    "type": "html",
+    "sailsVersion": "~0.10.0"
+  }
+}
