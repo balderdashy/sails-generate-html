@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-html",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "description": "sails generate html",
   "main": "index.js",
   "scripts": {
