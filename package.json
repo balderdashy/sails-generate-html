@@ -18,11 +18,6 @@
   "dependencies": {
   	"lodash": "~2.4.0"
   },
-  "devDependencies": {
-    "sails-generate": "*",
-    "reportback": "*",
-    "fs-extra": "*"
-  },
   "sailsGenerator": {
     "type": "html",
     "sailsVersion": "~0.10.0"
